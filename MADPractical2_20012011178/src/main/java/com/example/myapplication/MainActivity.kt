@@ -1,4 +1,4 @@
-package com.example.MADPractical2_20012011178
+package com.example.MADPractical2_20012011179
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,7 +8,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import com.google.android.material.snackbar.Snackbar
 
 class MainActivity : AppCompatActivity() {
-    private val TAG = "MainActivity"
+    private val TAG = "MADPractical2_20012011179"
     private lateinit var mycl: ConstraintLayout
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
